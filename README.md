@@ -1,8 +1,8 @@
 # Statistical Data Analysis
 
-Fall 2020
-Instructor: Dr. Mainak Thakur
-Indian Institute of Information Technology Sri City
+Fall 2020 <br />
+Instructor: Dr. Mainak Thakur <br />
+Indian Institute of Information Technology Sri City <br />
 
  ## ASSIGNMENT-1     
 
